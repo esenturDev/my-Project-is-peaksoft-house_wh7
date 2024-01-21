@@ -1,0 +1,238 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.layout {
+  overflow: hidden;
+  position: relative;
+  background: green;
+  box-shadow: 0px 0px 200px inset black;
+  width: 100%;
+  height: 100vh;
+}
+
+.layout img {
+  width: 200px;
+  height: 285px;
+  box-shadow: 0px 7px 15px black;
+}
+
+.cards {
+  position: relative;
+  padding: 80px 20px 0px 20px;
+}
+
+/* cards 1 */
+.cards_1 {
+  position: relative;
+  left: 0;
+  top: 0;
+}
+
+.cards_1 .card_1 {
+  position: absolute;
+  top: 0;
+}
+
+.cards_1 .card_2 {
+  position: absolute;
+  top: 300px;
+}
+
+/* cards 2 */
+.cards_2 {
+  position: relative;
+  left: 215px;
+  top: 0;
+}
+
+.cards_2 .card_1 {
+  position: absolute;
+  top: 0;
+}
+
+.cards_2 .card_2 {
+  position: absolute;
+  top: 300px;
+}
+
+.cards_2 .card_3 {
+  position: absolute;
+  top: 360px
+}
+
+/* cards 3 */
+.cards_3{
+  position: relative;
+  left: 430px;
+  top: 0;
+}
+
+.cards_3 .card_4{
+  position: absolute;
+  top: 0;
+}
+
+.cards_3 .card_5{
+  position: absolute;
+  top: 300px;
+}
+
+.cards_3 .card_6{
+  position: absolute;
+  top: 360px;
+}
+
+.cards_3 .card_7{
+  position: absolute;
+  top: 420px;
+}
+
+/* cards 4 */
+.cards_4{
+  position: relative;
+  left: 645px;
+  top: 0;
+}
+
+.cards_4 .card_8{
+  position: absolute;
+  top: 0;
+}
+
+.cards_4 .card_9{
+  position: absolute;
+  top: 300px;
+}
+
+.cards_4 .card_10{
+  position: absolute;
+  top: 360px;
+}
+
+.cards_4 .card_11{
+  position: absolute;
+  top: 420px;
+}
+
+.cards_4 .card_12{
+  position: absolute;
+  top: 480px;
+}
+
+/* cards 5 */
+.cards_5{
+  position: relative;
+  left: 860px;
+  top: 0;
+}
+
+.cards_5 .card_13{
+  position: absolute;
+  top: 300px;
+}
+
+.cards_5 .card_14{
+  position: absolute;
+  top: 360px;
+}
+
+.cards_5 .card_15{
+  position: absolute;
+  top: 420px;
+}
+
+.cards_5 .card_16{
+  position: absolute;
+  top: 480px;
+}
+
+.cards_5 .card_17{
+  position: absolute;
+  top: 540px;
+}
+
+/* cards 6 */
+.cards_6{
+  position: relative;
+  left: 1075px;
+  top: 0;
+}
+
+.cards_6 .card_18{
+  position: absolute;
+  top: 300px;
+}
+
+.cards_6 .card_19{
+  position: absolute;
+  top: 360px;
+}
+
+.cards_6 .card_20{
+  position: absolute;
+  top: 420px;
+}
+
+.cards_6 .card_21{
+  position: absolute;
+  top: 480px;
+}
+
+.cards_6 .card_22{
+  position: absolute;
+  top: 540px;
+}
+
+.cards_6 .card_23{
+  position: absolute;
+  top: 600px;
+}
+
+/* cards 7 */
+.cards_7{
+  position: relative;
+  left: 1290px;
+  top: 0;
+}
+
+.cards_7 .card_24{
+  position: absolute;
+  top: 0;
+}
+
+.cards_7 .card_25{
+  position: absolute;
+  top: 300px;
+}
+
+.cards_7 .card_26{
+  position: absolute;
+  top: 360px;
+}
+
+.cards_7 .card_27{
+  position: absolute;
+  top: 420px;
+}
+
+.cards_7 .card_28{
+  position: absolute;
+  top: 480px;
+}
+
+.cards_7 .card_29{
+  position: absolute;
+  top: 540px;
+}
+
+.cards_7 .card_30{
+  position: absolute;
+  top: 600px;
+}
+
+.cards_7 .card_31{
+  position: absolute;
+  top: 660px;
+}
